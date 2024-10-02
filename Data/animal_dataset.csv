@@ -1,0 +1,6 @@
+Animal, is small, is medium, is big, 2 legs ,4 legs, feather ,hunt, run, fly
+Dove,1,0,0,1,0,1,0,0,1
+Owl,1,0,0,1,0,1,1,0,1
+Dog,0,1,0,0,1,0,0,1,0
+Lion,0,0,1,0,1,0,1,1,0
+Horse,0,0,1,0,1,0,0,1,0
